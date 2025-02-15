@@ -1,1 +1,1 @@
-print("its alive!")
+print("i alive!")
